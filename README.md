@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name : Space Travellers
+# Space Travellers
 
 > The Space Travellers is a web application that provides commercial and scientific space travel services. This application will allow users to book rockets and join selected space missions :
 
@@ -8,8 +8,6 @@
 - User can join missions if they wish.
 - Users can book each rocket by clicking the reservation button or cancel the previously made booking.
 
-
-You can find live project at https://amrendrakind.github.io/space-travelers/
 
 ## Built With
 
@@ -22,21 +20,21 @@ You can find live project at https://amrendrakind.github.io/space-travelers/
 
 ### Github
 
-Take a look at the space-travelers page [space-travelers@GitHub](https://amrendrakind.github.io/space-travelers)
+Take a look at the space-travelers page [space-travelers@GitHub](https://github.com/Hadi111jafari/Space-Travellers)
 
 ## Development set up
 
 Clone Repository using
 
-`git clone git@github.com:amrendrakind/space-travelers.git`
+`git clone git@github.com:Hadi111jafari/Space-Travellers.git`
 
 OR using HTTPS
 
-`git clone https://github.com/amrendrakind/space-travelers.git`
+`git clone https://github.com/Hadi111jafari/Space-Travellers.git`
 
 move into project directory
 
-`cd space-travelers`
+`cd Space-Travellers`
 
 Install Project dependancies using `NPM`
 
